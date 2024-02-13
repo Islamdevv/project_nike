@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "885b",
+      "name": "Just in",
+      "price": "140$",
+      "type": "men",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/64d6107b-b6b1-4149-b2f9-41c163694a22/air-pegasus-89-g-nrg-golf-shoes-F7GclB.png"
+    },
+    {
+      "id": "e25c",
+      "name": "Best Seller",
+      "price": "150$",
+      "type": "men",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/a3e7dead-1ad2-4c40-996d-93ebc9df0fca/dunk-low-retro-mens-shoes-87q0hf.png"
+    },
+    {
+      "id": "fcaa",
+      "name": "Nike Air Force",
+      "price": "190$",
+      "type": "women",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/119e17d8-7527-46ee-a6ee-a13c5183e4f9/air-force-1-07-lx-mens-shoes-QMKvrR.png"
+    },
+    {
+      "id": "9171",
+      "name": "Coming Soon ",
+      "price": "200$",
+      "type": "men",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/cc714484-c7ba-43d9-98db-b760a07cf241/air-max-plus-drift-mens-shoes-FKwJ7w.png"
+    },
+    {
+      "id": "3ba5",
+      "name": "Coming Soon ",
+      "price": "220$",
+      "type": "men",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/7140ed31-f36a-4439-ab90-dab247a43625/gt-cut-3-asw-basketball-shoes-8CmnZD.png"
+    },
+    {
+      "id": "ebc1",
+      "name": "Coming Soon ",
+      "price": "240$",
+      "type": "men",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/bad28d25-0da7-4ce4-b25f-190bdf4721a3/gt-hustle-2-asw-basketball-shoes-g4Nwmf.png"
+    },
+    {
+      "id": "95f8",
+      "name": "Just In",
+      "price": "130$",
+      "type": "men",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/c791c90b-a7bb-4b73-b593-6765e501f0c0/dunk-high-retro-mens-shoes-dTVTCk.png"
+    }
+  ]
+}
